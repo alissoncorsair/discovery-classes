@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+}
+
+header {
+    padding: 2rem;
+    border: 0.5px solid;
+    background: lightgray;
+}
+
+.items {
+    display: flex;
+    justify-content: space-between;
+}
+
+.imagem {
+    width: 100px;
+}
+
+.items ul {
+    margin-right: 10%;
+    display: flex;
+    gap: .8rem;
+    align-items: center;
+    list-style: none;
+}
+
+button {
+    height: 20px;
+}

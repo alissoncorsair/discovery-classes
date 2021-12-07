@@ -1,0 +1,12 @@
+display: block = ocupa a linha toda
+padding, margin, border funcionam normalmente
+
+display: inline = nao ocupa a linha toda, elemento ao lado do outro e nao tem height e nem width
+somente valores HORIZONTAIS (lados) de margin, padding e border 
+
+
+tem elementos que são block ou inline por padrão!
+
+
+
+margin: 12px 16px 0 (top, left&right, bottom)

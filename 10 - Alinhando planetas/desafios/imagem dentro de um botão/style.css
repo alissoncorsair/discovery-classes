@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+}
+
+
+/* .flexbox {
+    display: flex;
+    gap: .4rem;
+} */
+.button1 {
+    display: flex;
+    align-items: center;
+    gap: .4rem;
+    line-height: 0;
+}
+
+.button1 img {
+    width: 2rem;
+    height: 2rem;
+}

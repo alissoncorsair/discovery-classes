@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+}
+.flexbox { 
+    display: flex;
+    /* flex-wrap: wrap; */
+    border: 1px dashed red;
+    /* height: 80vh; */
+}
+
+.item {
+border: 1px solid;
+/* background: gray; */
+/* flex: 1; */
+/* width: 550px; */
+}

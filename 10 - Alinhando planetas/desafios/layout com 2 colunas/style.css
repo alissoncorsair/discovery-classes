@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+}
+
+
+.flexbox {
+    display: flex;
+    margin: 20px;
+    gap: 1rem;
+}
+
+.coluna1, .coluna2 {
+    height: 100vh;
+    width: 200px;
+    border: .8px solid lightgrey;
+}
+
+.coluna1 {
+    flex-basis: 25%;
+}
+
+.coluna2 {
+   flex-grow: 1;
+}

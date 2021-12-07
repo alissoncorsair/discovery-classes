@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+}
+
+h1 {
+    font-size: 90px;
+}
+h2 {
+    font-size: 60px;
+}
+
+main {
+height: auto;
+    color: white;
+    background: url(https://www.dicaspetz.com.br/wp-content/uploads/2020/04/curiosidades-sobre-calopsitas-pet.jpg) fixed, linear-gradient(red, yellow) ;
+    background-size: contain;  
+    background-color:darkkhaki;
+    /* background: linear-gradient(red, yellow); */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-origin: border-box;
+    background-clip: padding-box;
+    border: 7px dashed red;
+    /* background-attachment: fixed; */
+}

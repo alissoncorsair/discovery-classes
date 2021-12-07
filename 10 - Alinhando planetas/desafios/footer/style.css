@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+}
+
+.flexbox {
+    margin-top: auto;
+    background: lightgrey;
+    height: 8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-grow: 1;
+}
